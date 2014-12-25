@@ -10,7 +10,8 @@ Alfred2 installed.
 Download workflow and add it into Alfred.
 
 ##Usage
-Type "vimtips s" to get one random vim tips.
+* Type "vimtips s" to get one random vim tips.
+* Then press "Enter" to visit the web page of this tip.
 
 ##Screenshot
 
